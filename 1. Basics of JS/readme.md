@@ -165,3 +165,290 @@ Expressions: To dynamically add values into new Template Literals expressions ar
 ```
 ${expression}
 ```
+
+## Arithmetic Operators - JS
+
+JavaScript Arithmetic Operators are the operators that operate upon the numerical values and return a numerical value. There are many operators in JavaScript. Each operator is described below along with its example.
+
+1. Addition (+) The addition operator takes two numerical operands and gives their numerical sum. It also concatenates two strings or numbers.
+
+Syntax:
+```
+a + b
+```
+Example:
+```
+// Number + Number => Addition 
+1 + 2 gives 3
+
+// Number + String => Concatenation
+5 + "hello" gives "5Hello"
+```
+2. Subtraction (-) The subtraction operator gives the difference of two operands in the form of numerical value.
+
+Syntax:
+```
+a - b
+Example:
+
+// Number - Number => Subtraction 
+10 - 7 gives 3
+
+"Hello" - 1 gives Nan
+```
+3. Multiplication (*) The multiplication operator gives the product of operands where one operand is multiplicand and another is multiplier.
+
+Syntax:
+```
+a * b
+```
+Example:
+
+```
+// Number * Number => Multiplication
+3 * 3 gives 9
+-4 * 4 gives -16
+
+Infinity * 0 gives NaN
+Infinity * Infinity gives Infinity
+'hi' * 2 gives NaN
+```
+
+4. Division (/) The division operator provides the quotient of its operands where the right operand is the divisor and the left operand is the dividend.
+
+Syntax: 
+```
+a / b
+```
+Example:
+
+```
+// Number / Number => Division
+5 / 2 gives 2.5
+1.0 / 2.0 gives 0.5
+
+3.0 / 0 gives Infinity
+4.0 / 0.0 gives Infinity, because 0.0 == 0
+2.0 / -0.0 gives -Infinity
+```
+
+5. Modulus (%) The modulus operator returns the remainder left over when a dividend is divided by a divisor. The modulus operator is also known as remainder operator. It takes the sign of the dividend.
+
+Syntax:
+```
+a % b
+```
+Example:
+```
+// Number % Number => Modulus of the number
+
+9 % 5 gives 4
+-12 % 5 gives -2
+1 % -2 gives 1
+5.5 % 2 gives 1.5
+-4 % 2 gives -0
+
+NaN % 2 gives NaN
+```
+
+6. Exponentiation (**) The exponentiation operator gives the result of raising the first operand to the power of the second operand. The exponentiation operator is right-associative. 
+
+Syntax:
+```
+a ** b
+```
+In JavaScript, it is not possible to write an ambiguous exponentiation expression i.e. you cannot put an unary operator (+ / – / ~ / ! / delete / void) immediately before the base number.
+
+Example:
+```
+// Number ** Number => Exponential of the number
+
+-4 ** 2 // This is an incorrect expression
+-(4 ** 2) gives -16, this is a correct expression
+2 ** 5 gives 32
+3 ** 3 gives 27
+3 ** 2.5 gives 15.588457268119896
+10 ** -2 gives 0.01
+2 ** 3 ** 2 gives 512
+
+NaN ** 2 gives NaN
+```
+
+7. Increment (++) The increment operator increments (adds one to) its operand and returns a value.
+
+If used postfix  with operator after operand (for example, x++), then it increments and returns the value before incrementing.
+If used prefix with operator before operand (for example, ++x), then it increments and returns the value after incrementing.
+Syntax: 
+```
+a++ or ++a
+```
+Example:
+
+```js
+// Postfix 
+var a = 2;
+b = a++; // b = 2, a = 3
+
+// Prefix
+var x = 5;
+y = ++x; // x = 6, y = 6
+```
+
+8. Decrement (–-) The decrement operator decrements (subtracts one from) its operand and returns a value.
+
+If used postfix, with operator after operand (for example, x–), then it decrements and returns the value before decrementing.
+If used prefix, with operator before operand (for example, –x), then it decrements and returns the value after decrementing.
+Syntax:
+```
+a-- or --a
+```
+Example:
+
+```js
+// Prefix
+var x = 2;
+y = --x; gives x = 1, y = 1
+
+// Postfix 
+var x = 3;
+y = x--; gives y = 3, x = 2
+```
+
+9. Unary (-) This is a unary operator i.e. it operates on a single operand. It gives the negation of an operand.
+
+Syntax:
+```
+-a
+```
+Example:
+
+```js
+var a = 3;
+b = -a; gives b = -3, a = 3
+
+// Unary negation operator
+// can convert non-numbers
+// into a number
+var a = "3";
+b = -a; gives b = -3
+```
+
+10. Unary (+) This is a way to convert a non-number into a number. Although unary negation (-) also can convert non-numbers, unary plus is the fastest and preferred way of converting something into a number, because it does not perform any other operations on the number.
+
+Syntax:
+```
++a
+```
+Example:
+```
++4     gives 4
++'2'   gives 2
++true  gives 1
++false gives 0
++null  gives 0
+```
+
+
+## Type conversion
+
+JavaScript is loosely typed language and most of the time operators automatically convert a value to the right type but there are also cases when we need to explicitly do type conversions.
+While JavaScript provides numerous ways to convert data from one type to another but there are two most common data conversions :
+ 
+
+- Converting Values to String
+- Converting Values to Numbers
+
+1. Implicit Conversion: There are various operators and functions in JavaScript which automatically convert a value to the right type like alert() function in JavaScript accepts any value and convert it into a string. But various operator creates a problem like ‘+’ operator.
+
+Example:
+```
+Input: "2" + "3"
+Output: "23"
+here + operator stands for string concatenation in this case.
+But "3" - "1" gives output 2 by using Implicit Conversion.
+```
+
+2. Converting Values to Strings: String() or toString() function can be used in JavaScript to convert a value to a string.
+
+Syntax of String() function:
+```
+String(value)
+```
+Example:
+```
+Input:
+var v = 1555;
+var s = String(v);
+Output:
+now s contains "1555".
+```
+
+Syntax of toString() function:
+
+```
+variableName.toString(base)
+```
+Example:
+```
+Input:
+var v = 1555;
+var s = v.toString();
+Output:
+now s contains "1555".
+```
+For more information on toString( ) function check this article JavaScript | toString( ) function.
+
+3. Converting Values to Numbers:
+We can use Number() function in JavaScript to convert a value to a Number. It can convert any numerical text and boolean value to a Number. In case of strings of non-numbers it will convert it to a NaN(Not a Number).
+Syntax:
+```
+Number(valueToConvert)
+```
+Example:
+
+Input:
+```js
+var s = "144";
+var n = Number(s);
+```
+
+Output:
+```
+now n contain 144(Number).
+```
+
+## ReadlineSync
+
+Readline Module in Node.js allows the reading of input stream line by line. This module wraps up the process standard output and process standard input objects. Readline module makes it easier for input and reading the output given by the user. To use this module, create a new JavaScript file and write the following code at the starting of the application :
+```
+var readline = require('readline');
+```
+The Readline module comes with different methods to interact with the user.
+ 
+
+Interaction with the user: For the interaction, we will first create an interface for the input and output. For creating an interface, write the following code :
+```
+var readline = require('readline');
+var rl = readline.createInterface(process.stdin, process.stdout);
+```
+Here, the createInterface() method takes two arguments. The first argument will be for the standard input and the second one will be for reading the standard output. 
+```
+rl.question('What is your age? ', (age)=> {
+    console.log('Yor age is: ' + age);
+});
+```
+Here, rl.question() method is used for asking questions from the user and reading their reply (output). The first parameter is used to ask the question and the second parameter is a callback function which will take the output from the user as the parameter and return it on the console. 
+
+The output for the above code will be :
+```
+What is your age? 20
+Your age is: 20
+```
+
+Here, the problem is, it will not exit the application and it will keep asking for the inputs. To resolve this issue, rl.close() method is used. This method will close the interface. To use it in the application, write the following :
+```
+rl.question('What is your age? ', (age) => {
+   console.log(' Your age is: ' + age);
+   rl.close();
+});
+```
