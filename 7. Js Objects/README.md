@@ -1011,3 +1011,41 @@ greetPerson2WithPrefix(); // Output: "Hello, my name is Harsh and I am 25 years 
 
 In this example, we use bind() to create a new function greetPerson2WithPrefix that has this set to person2 and also passes the string "Hello" as an argument. When we call greetPerson2WithPrefix(), the output is "Hello, my name is Harsh and I am 25 years old.", which includes the prefix "Hello" that we passed with bind().
 
+
+## Some important Objects concept
+
+```js
+function displayName(){
+  console.log(this);
+}
+
+const user1 = {
+  name: "Arun",
+  showName: displayName;
+}
+
+user1.showName() // Here 'this' will refer to the user1 object.
+
+const user2 = {
+  name: "Bk",
+  showName: function() {
+    displayName()
+  };
+}
+
+user2.showName() // Here 'this' will refer to the window object. as displayName is not the property of user2 and is called withing a function.
+```
+
+```js
+const person {
+  name: "Arun",
+  sayHi: function() {
+    console.log("Welcome ", this.name);
+  }
+}
+
+person.sayHi() // Output: Welcome Arun
+
+const person2 = person.sayHi; // person2 is now a regular function
+person2() // Output: Welcome -> here 'this' refers to the window object and it has no property named 'name'
+```
