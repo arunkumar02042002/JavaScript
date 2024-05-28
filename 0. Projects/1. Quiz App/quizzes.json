@@ -1,0 +1,2001 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": {
+        "a": "Paris",
+        "b": "London",
+        "c": "Berlin",
+        "d": "Madrid"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the capital of Germany?",
+      "options": {
+        "a": "Paris",
+        "b": "London",
+        "c": "Berlin",
+        "d": "Madrid"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the capital of Italy?",
+      "options": {
+        "a": "Paris",
+        "b": "London",
+        "c": "Berlin",
+        "d": "Rome"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "What is the capital of Spain?",
+      "options": {
+        "a": "Paris",
+        "b": "London",
+        "c": "Madrid",
+        "d": "Berlin"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the capital of Portugal?",
+      "options": {
+        "a": "Paris",
+        "b": "London",
+        "c": "Madrid",
+        "d": "Lisbon"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "What is the capital of Sweden?",
+      "options": {
+        "a": "Stockholm",
+        "b": "London",
+        "c": "Madrid",
+        "d": "Paris"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the capital of Norway?",
+      "options": {
+        "a": "Paris",
+        "b": "Oslo",
+        "c": "Madrid",
+        "d": "NYC"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What is the capital of Denmark?",
+      "options": {
+        "a": "Hamilton",
+        "b": "London",
+        "c": "Dencap",
+        "d": "Copenhagen"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "What is the capital of Finland?",
+      "options": {
+        "a": "Kyiv",
+        "b": "London",
+        "c": "Madrid",
+        "d": "Helsinki"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "What is the capital of Iceland?",
+      "options": {
+        "a": "Reykjavik",
+        "b": "London",
+        "c": "Madrid",
+        "d": "Helsinki"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the capital of Switzerland?",
+      "options": {
+        "a": "Bern",
+        "b": "London",
+        "c": "Madrid",
+        "d": "Zurich"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the highest individual score in ODI?",
+      "options": {
+        "a": 200,
+        "b": 209,
+        "c": 264,
+        "d": 207
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the highest individual score in T20 in all format?",
+      "options": {
+        "a": 153,
+        "b": 175,
+        "c": 157,
+        "d": 168
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Who was the first Indian to win an Individual Olympic gold medal?",
+      "options": {
+        "a": "Abhinav Bindra",
+        "b": "Milkha Singh",
+        "c": "Saina Nehwal"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Who was the first Indian to reach the summit of Mount Everest?",
+      "options": {
+        "a": "Santosh Yadav",
+        "b": "Avatar Singh Cheema",
+        "c": "Aditya Pratap"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "options": {
+        "a": "Sydney",
+        "b": "Melbourne",
+        "c": "Canberra",
+        "d": "Brisbane"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "options": {
+        "a": "Toronto",
+        "b": "Vancouver",
+        "c": "Montreal",
+        "d": "Ottawa"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "options": {
+        "a": "Tokyo",
+        "b": "Osaka",
+        "c": "Kyoto",
+        "d": "Nagoya"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the capital of China?",
+      "options": {
+        "a": "Beijing",
+        "b": "Shanghai",
+        "c": "Guangzhou",
+        "d": "Shenzhen"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the capital of Russia?",
+      "options": {
+        "a": "Moscow",
+        "b": "Saint Petersburg",
+        "c": "Novosibirsk",
+        "d": "Yekaterinburg"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the capital of Brazil?",
+      "options": {
+        "a": "Sao Paulo",
+        "b": "Rio de Janeiro",
+        "c": "Brasilia",
+        "d": "Salvador"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the capital of India?",
+      "options": {
+        "a": "Mumbai",
+        "b": "Delhi",
+        "c": "Bangalore",
+        "d": "New Delhi"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "What is the capital of South Africa?",
+      "options": {
+        "a": "Johannesburg",
+        "b": "Cape Town",
+        "c": "Pretoria",
+        "d": "Durban"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the capital of Argentina?",
+      "options": {
+        "a": "Buenos Aires",
+        "b": "Cordoba",
+        "c": "Rosario",
+        "d": "Mendoza"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the capital of Egypt?",
+      "options": {
+        "a": "Cairo",
+        "b": "Alexandria",
+        "c": "Giza",
+        "d": "Luxor"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the capital of Saudi Arabia?",
+      "options": {
+        "a": "Jeddah",
+        "b": "Mecca",
+        "c": "Medina",
+        "d": "Riyadh"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "What is the capital of Turkey?",
+      "options": {
+        "a": "Istanbul",
+        "b": "Ankara",
+        "c": "Izmir",
+        "d": "Antalya"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What is the capital of Mexico?",
+      "options": {
+        "a": "Guadalajara",
+        "b": "Monterrey",
+        "c": "Tijuana",
+        "d": "Mexico City"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "What is the capital of Thailand?",
+      "options": {
+        "a": "Phuket",
+        "b": "Bangkok",
+        "c": "Chiang Mai",
+        "d": "Pattaya"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What is the capital of South Korea?",
+      "options": {
+        "a": "Busan",
+        "b": "Incheon",
+        "c": "Daegu",
+        "d": "Seoul"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "What is the capital of Malaysia?",
+      "options": {
+        "a": "Kuala Lumpur",
+        "b": "Penang",
+        "c": "Johor Bahru",
+        "d": "Malacca"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the capital of Indonesia?",
+      "options": {
+        "a": "Surabaya",
+        "b": "Bandung",
+        "c": "Jakarta",
+        "d": "Medan"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the capital of Philippines?",
+      "options": {
+        "a": "Manila",
+        "b": "Cebu",
+        "c": "Davao",
+        "d": "Quezon City"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the capital of Vietnam?",
+      "options": {
+        "a": "Ho Chi Minh City",
+        "b": "Hanoi",
+        "c": "Da Nang",
+        "d": "Hue"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What is the capital of New Zealand?",
+      "options": {
+        "a": "Auckland",
+        "b": "Christchurch",
+        "c": "Wellington",
+        "d": "Dunedin"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the capital of Greece?",
+      "options": {
+        "a": "Athens",
+        "b": "Thessaloniki",
+        "c": "Patras",
+        "d": "Heraklion"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the capital of Hungary?",
+      "options": {
+        "a": "Budapest",
+        "b": "Debrecen",
+        "c": "Szeged",
+        "d": "Miskolc"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the capital of Poland?",
+      "options": {
+        "a": "Warsaw",
+        "b": "Krakow",
+        "c": "Gdansk",
+        "d": "Wroclaw"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the capital of Netherlands?",
+      "options": {
+        "a": "Amsterdam",
+        "b": "Rotterdam",
+        "c": "The Hague",
+        "d": "Utrecht"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the capital of Belgium?",
+      "options": {
+        "a": "Brussels",
+        "b": "Antwerp",
+        "c": "Ghent",
+        "d": "Bruges"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the capital of Austria?",
+      "options": {
+        "a": "Vienna",
+        "b": "Salzburg",
+        "c": "Innsbruck",
+        "d": "Graz"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the capital of Czech Republic?",
+      "options": {
+        "a": "Prague",
+        "b": "Brno",
+        "c": "Ostrava",
+        "d": "Pilsen"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the capital of Ireland?",
+      "options": {
+        "a": "Dublin",
+        "b": "Cork",
+        "c": "Limerick",
+        "d": "Galway"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the capital of Norway?",
+      "options": {
+        "a": "Oslo",
+        "b": "Bergen",
+        "c": "Stavanger",
+        "d": "Trondheim"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the capital of Finland?",
+      "options": {
+        "a": "Helsinki",
+        "b": "Tampere",
+        "c": "Turku",
+        "d": "Oulu"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the capital of Iceland?",
+      "options": {
+        "a": "Reykjavik",
+        "b": "Akureyri",
+        "c": "Selfoss",
+        "d": "Hafnarfjordur"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the capital of Bulgaria?",
+      "options": {
+        "a": "Sofia",
+        "b": "Plovdiv",
+        "c": "Varna",
+        "d": "Burgas"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the capital of Romania?",
+      "options": {
+        "a": "Bucharest",
+        "b": "Cluj-Napoca",
+        "c": "Timisoara",
+        "d": "Iasi"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the capital of Ukraine?",
+      "options": {
+        "a": "Kyiv",
+        "b": "Kharkiv",
+        "c": "Odessa",
+        "d": "Lviv"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the capital of Belarus?",
+      "options": {
+        "a": "Minsk",
+        "b": "Gomel",
+        "c": "Mogilev",
+        "d": "Vitebsk"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": {
+        "a": "Atlantic Ocean",
+        "b": "Indian Ocean",
+        "c": "Arctic Ocean",
+        "d": "Pacific Ocean"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "Which country has the largest population?",
+      "options": {
+        "a": "India",
+        "b": "United States",
+        "c": "China",
+        "d": "Indonesia"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the smallest country in the world by area?",
+      "options": {
+        "a": "Monaco",
+        "b": "San Marino",
+        "c": "Vatican City",
+        "d": "Liechtenstein"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "options": {
+        "a": "Nile River",
+        "b": "Amazon River",
+        "c": "Yangtze River",
+        "d": "Mississippi River"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": {
+        "a": "China",
+        "b": "South Korea",
+        "c": "Japan",
+        "d": "Thailand"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "options": {
+        "a": "K2",
+        "b": "Kangchenjunga",
+        "c": "Mount Everest",
+        "d": "Lhotse"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which desert is the largest in the world?",
+      "options": {
+        "a": "Sahara Desert",
+        "b": "Gobi Desert",
+        "c": "Kalahari Desert",
+        "d": "Great Victoria Desert"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which country is the largest by area?",
+      "options": {
+        "a": "United States",
+        "b": "Canada",
+        "c": "Russia",
+        "d": "China"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which city is known as the Big Apple?",
+      "options": {
+        "a": "Los Angeles",
+        "b": "Chicago",
+        "c": "New York City",
+        "d": "San Francisco"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the smallest continent by land area?",
+      "options": {
+        "a": "Europe",
+        "b": "Australia",
+        "c": "South America",
+        "d": "Antarctica"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which country is known for the Eiffel Tower?",
+      "options": {
+        "a": "Italy",
+        "b": "France",
+        "c": "Spain",
+        "d": "Germany"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What is the official language of Brazil?",
+      "options": {
+        "a": "Spanish",
+        "b": "Portuguese",
+        "c": "English",
+        "d": "French"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which continent is the Sahara Desert located in?",
+      "options": {
+        "a": "Asia",
+        "b": "Australia",
+        "c": "Africa",
+        "d": "South America"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which country is known for the Great Wall?",
+      "options": {
+        "a": "Japan",
+        "b": "China",
+        "c": "South Korea",
+        "d": "India"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What is the primary currency used in the United Kingdom?",
+      "options": {
+        "a": "Euro",
+        "b": "Dollar",
+        "c": "Yen",
+        "d": "Pound Sterling"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "Which river flows through Egypt?",
+      "options": {
+        "a": "Nile River",
+        "b": "Amazon River",
+        "c": "Ganges River",
+        "d": "Danube River"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the national animal of Canada?",
+      "options": {
+        "a": "Bald Eagle",
+        "b": "Kangaroo",
+        "c": "Beaver",
+        "d": "Moose"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which country is known as the Land Down Under?",
+      "options": {
+        "a": "New Zealand",
+        "b": "South Africa",
+        "c": "Australia",
+        "d": "Argentina"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the official language of Egypt?",
+      "options": {
+        "a": "French",
+        "b": "English",
+        "c": "Arabic",
+        "d": "Spanish"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which country has the most islands?",
+      "options": {
+        "a": "Philippines",
+        "b": "Indonesia",
+        "c": "Sweden",
+        "d": "Japan"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which European country is known for tulips and windmills?",
+      "options": {
+        "a": "France",
+        "b": "Germany",
+        "c": "Netherlands",
+        "d": "Belgium"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which African country was formerly known as Abyssinia?",
+      "options": {
+        "a": "Ethiopia",
+        "b": "Nigeria",
+        "c": "Kenya",
+        "d": "Tanzania"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which country is known for its maple syrup?",
+      "options": {
+        "a": "United States",
+        "b": "Canada",
+        "c": "Russia",
+        "d": "Norway"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which country is home to the kangaroo?",
+      "options": {
+        "a": "South Africa",
+        "b": "Australia",
+        "c": "India",
+        "d": "Brazil"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which river is the longest in South America?",
+      "options": {
+        "a": "Amazon River",
+        "b": "Parana River",
+        "c": "Orinoco River",
+        "d": "Madeira River"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which country is famous for its pyramids?",
+      "options": {
+        "a": "Greece",
+        "b": "Mexico",
+        "c": "India",
+        "d": "Egypt"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "What is the national dish of Japan?",
+      "options": {
+        "a": "Sushi",
+        "b": "Pizza",
+        "c": "Tacos",
+        "d": "Paella"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which country is known for its fjords?",
+      "options": {
+        "a": "Denmark",
+        "b": "Norway",
+        "c": "Iceland",
+        "d": "Sweden"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which country is the largest producer of coffee?",
+      "options": {
+        "a": "Colombia",
+        "b": "Vietnam",
+        "c": "Brazil",
+        "d": "Ethiopia"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the official language of Chile?",
+      "options": {
+        "a": "Portuguese",
+        "b": "Spanish",
+        "c": "English",
+        "d": "French"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which country is known for the Taj Mahal?",
+      "options": {
+        "a": "India",
+        "b": "Pakistan",
+        "c": "Bangladesh",
+        "d": "Sri Lanka"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which continent has the most countries?",
+      "options": {
+        "a": "Asia",
+        "b": "Africa",
+        "c": "Europe",
+        "d": "South America"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What is the official language of Iran?",
+      "options": {
+        "a": "Arabic",
+        "b": "Turkish",
+        "c": "Persian",
+        "d": "Kurdish"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which country is known for its canals and gondolas?",
+      "options": {
+        "a": "France",
+        "b": "Italy",
+        "c": "Netherlands",
+        "d": "Belgium"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which desert is the hottest in the world?",
+      "options": {
+        "a": "Sahara Desert",
+        "b": "Arabian Desert",
+        "c": "Gobi Desert",
+        "d": "Mojave Desert"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which country is known for the Leaning Tower of Pisa?",
+      "options": {
+        "a": "Spain",
+        "b": "Greece",
+        "c": "Italy",
+        "d": "Portugal"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which country is the largest producer of tea?",
+      "options": {
+        "a": "India",
+        "b": "Sri Lanka",
+        "c": "China",
+        "d": "Japan"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which country is known for its maple leaves?",
+      "options": {
+        "a": "United States",
+        "b": "Canada",
+        "c": "Norway",
+        "d": "Finland"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which continent is the Amazon Rainforest located in?",
+      "options": {
+        "a": "Asia",
+        "b": "Africa",
+        "c": "South America",
+        "d": "Australia"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which country is known for the Eiffel Tower?",
+      "options": {
+        "a": "Spain",
+        "b": "Italy",
+        "c": "France",
+        "d": "Germany"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which country has the most UNESCO World Heritage Sites?",
+      "options": {
+        "a": "China",
+        "b": "Italy",
+        "c": "India",
+        "d": "Spain"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What is the national flower of Japan?",
+      "options": {
+        "a": "Rose",
+        "b": "Tulip",
+        "c": "Cherry Blossom",
+        "d": "Lily"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which country is known for Oktoberfest?",
+      "options": {
+        "a": "Switzerland",
+        "b": "Germany",
+        "c": "Austria",
+        "d": "Belgium"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which country is known as the Land of the Midnight Sun?",
+      "options": {
+        "a": "Iceland",
+        "b": "Sweden",
+        "c": "Norway",
+        "d": "Finland"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the national sport of Japan?",
+      "options": {
+        "a": "Football",
+        "b": "Sumo Wrestling",
+        "c": "Cricket",
+        "d": "Basketball"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which country is known for its ancient pyramids?",
+      "options": {
+        "a": "Greece",
+        "b": "China",
+        "c": "India",
+        "d": "Egypt"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "Which country has the longest coastline?",
+      "options": {
+        "a": "Australia",
+        "b": "Canada",
+        "c": "Russia",
+        "d": "Indonesia"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which city is known as the City of Light?",
+      "options": {
+        "a": "New York",
+        "b": "Paris",
+        "c": "Tokyo",
+        "d": "Los Angeles"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which continent is home to the Sahara Desert?",
+      "options": {
+        "a": "Asia",
+        "b": "Australia",
+        "c": "Africa",
+        "d": "South America"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which country is known for its chocolate and watches?",
+      "options": {
+        "a": "France",
+        "b": "Belgium",
+        "c": "Italy",
+        "d": "Switzerland"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "Which country is known for its famous Colosseum?",
+      "options": {
+        "a": "Spain",
+        "b": "Greece",
+        "c": "Italy",
+        "d": "Portugal"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which continent is the Nile River located in?",
+      "options": {
+        "a": "Asia",
+        "b": "Africa",
+        "c": "South America",
+        "d": "Australia"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Who was the first Prime Minister of India?",
+      "options": {
+        "a": "Mahatma Gandhi",
+        "b": "Jawaharlal Nehru",
+        "c": "Indira Gandhi",
+        "d": "Rajendra Prasad"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which Indian city is known as the Silicon Valley of India?",
+      "options": {
+        "a": "Hyderabad",
+        "b": "Mumbai",
+        "c": "Bengaluru",
+        "d": "Pune"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the national animal of India?",
+      "options": {
+        "a": "Lion",
+        "b": "Elephant",
+        "c": "Peacock",
+        "d": "Tiger"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "Which river is considered the holiest in India?",
+      "options": {
+        "a": "Yamuna",
+        "b": "Narmada",
+        "c": "Ganges",
+        "d": "Godavari"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Who wrote the Indian national anthem?",
+      "options": {
+        "a": "Rabindranath Tagore",
+        "b": "Bankim Chandra Chatterjee",
+        "c": "Sarojini Naidu",
+        "d": "Mahatma Gandhi"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which state is the largest by area in India?",
+      "options": {
+        "a": "Uttar Pradesh",
+        "b": "Maharashtra",
+        "c": "Rajasthan",
+        "d": "Madhya Pradesh"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which Indian state has the longest coastline?",
+      "options": {
+        "a": "Tamil Nadu",
+        "b": "Andhra Pradesh",
+        "c": "Gujarat",
+        "d": "Maharashtra"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which Mughal emperor built the Taj Mahal?",
+      "options": {
+        "a": "Akbar",
+        "b": "Shah Jahan",
+        "c": "Babur",
+        "d": "Aurangzeb"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Who is known as the Iron Man of India?",
+      "options": {
+        "a": "Jawaharlal Nehru",
+        "b": "Sardar Vallabhbhai Patel",
+        "c": "Subhas Chandra Bose",
+        "d": "Lal Bahadur Shastri"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which Indian festival is known as the festival of lights?",
+      "options": {
+        "a": "Holi",
+        "b": "Diwali",
+        "c": "Dussehra",
+        "d": "Raksha Bandhan"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What is the official language of the Indian state of Tamil Nadu?",
+      "options": {
+        "a": "Hindi",
+        "b": "Telugu",
+        "c": "Tamil",
+        "d": "Kannada"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Who was the first President of India?",
+      "options": {
+        "a": "Dr. Rajendra Prasad",
+        "b": "Dr. S. Radhakrishnan",
+        "c": "Zakir Husain",
+        "d": "V.V. Giri"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which Indian sportsperson is known as the 'Flying Sikh'?",
+      "options": {
+        "a": "P.T. Usha",
+        "b": "Milkha Singh",
+        "c": "Sachin Tendulkar",
+        "d": "Saina Nehwal"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which dance form originates from the Indian state of Kerala?",
+      "options": {
+        "a": "Bharatanatyam",
+        "b": "Kathak",
+        "c": "Kuchipudi",
+        "d": "Kathakali"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "What is the national flower of India?",
+      "options": {
+        "a": "Rose",
+        "b": "Lily",
+        "c": "Lotus",
+        "d": "Marigold"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which Indian state is known as the 'Land of the Rising Sun'?",
+      "options": {
+        "a": "Sikkim",
+        "b": "Arunachal Pradesh",
+        "c": "Nagaland",
+        "d": "Manipur"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which is the oldest mountain range in India?",
+      "options": {
+        "a": "Himalayas",
+        "b": "Aravalli Range",
+        "c": "Western Ghats",
+        "d": "Vindhya Range"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What is the national fruit of India?",
+      "options": {
+        "a": "Apple",
+        "b": "Mango",
+        "c": "Banana",
+        "d": "Pineapple"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Who is known as the Father of the Nation in India?",
+      "options": {
+        "a": "Jawaharlal Nehru",
+        "b": "B.R. Ambedkar",
+        "c": "Mahatma Gandhi",
+        "d": "Sardar Vallabhbhai Patel"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which Indian city is also known as the 'Pink City'?",
+      "options": {
+        "a": "Jaipur",
+        "b": "Jodhpur",
+        "c": "Udaipur",
+        "d": "Bikaner"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which river is the longest in India?",
+      "options": {
+        "a": "Ganges",
+        "b": "Brahmaputra",
+        "c": "Yamuna",
+        "d": "Godavari"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Who was the first Indian woman to win an Olympic medal?",
+      "options": {
+        "a": "Mary Kom",
+        "b": "P.T. Usha",
+        "c": "Karnam Malleswari",
+        "d": "Saina Nehwal"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which state is known as the 'Spice Garden of India'?",
+      "options": {
+        "a": "Kerala",
+        "b": "Karnataka",
+        "c": "Andhra Pradesh",
+        "d": "Tamil Nadu"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "What is the national bird of India?",
+      "options": {
+        "a": "Sparrow",
+        "b": "Peacock",
+        "c": "Eagle",
+        "d": "Parrot"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which state is the largest producer of tea in India?",
+      "options": {
+        "a": "West Bengal",
+        "b": "Assam",
+        "c": "Kerala",
+        "d": "Tamil Nadu"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which state is known for its backwaters?",
+      "options": {
+        "a": "Goa",
+        "b": "Tamil Nadu",
+        "c": "Kerala",
+        "d": "Karnataka"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which Indian city is also known as the 'City of Joy'?",
+      "options": {
+        "a": "Mumbai",
+        "b": "Delhi",
+        "c": "Kolkata",
+        "d": "Chennai"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Who is known as the Nightingale of India?",
+      "options": {
+        "a": "Sarojini Naidu",
+        "b": "Lata Mangeshkar",
+        "c": "Indira Gandhi",
+        "d": "Kasturba Gandhi"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which Indian city is known as the 'Silicon Valley of India'?",
+      "options": {
+        "a": "Hyderabad",
+        "b": "Mumbai",
+        "c": "Bengaluru",
+        "d": "Pune"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which festival is known as the 'Festival of Colors'?",
+      "options": {
+        "a": "Diwali",
+        "b": "Holi",
+        "c": "Navratri",
+        "d": "Raksha Bandhan"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Who is the author of the Indian national anthem?",
+      "options": {
+        "a": "Bankim Chandra Chatterjee",
+        "b": "Sarojini Naidu",
+        "c": "Rabindranath Tagore",
+        "d": "Aurobindo Ghosh"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which Indian leader is known for the 'Salt March'?",
+      "options": {
+        "a": "Jawaharlal Nehru",
+        "b": "Subhas Chandra Bose",
+        "c": "Mahatma Gandhi",
+        "d": "Bhagat Singh"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the national tree of India?",
+      "options": {
+        "a": "Neem",
+        "b": "Peepal",
+        "c": "Banyan",
+        "d": "Mango"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+      "options": {
+        "a": "Punjab",
+        "b": "Haryana",
+        "c": "Uttar Pradesh",
+        "d": "Gujarat"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which Indian leader is known as the 'Missile Man of India'?",
+      "options": {
+        "a": "Homi J. Bhabha",
+        "b": "Vikram Sarabhai",
+        "c": "A.P.J. Abdul Kalam",
+        "d": "Satish Dhawan"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the national currency of India?",
+      "options": {
+        "a": "Dollar",
+        "b": "Rupee",
+        "c": "Yen",
+        "d": "Euro"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which Indian state is famous for its leather industry?",
+      "options": {
+        "a": "Tamil Nadu",
+        "b": "Uttar Pradesh",
+        "c": "West Bengal",
+        "d": "Rajasthan"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which is the smallest state in India by area?",
+      "options": {
+        "a": "Goa",
+        "b": "Sikkim",
+        "c": "Tripura",
+        "d": "Nagaland"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Who is known as the 'Nightingale of India'?",
+      "options": {
+        "a": "Sarojini Naidu",
+        "b": "Lata Mangeshkar",
+        "c": "Indira Gandhi",
+        "d": "Kasturba Gandhi"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which Indian leader is known for the 'Quit India Movement'?",
+      "options": {
+        "a": "Jawaharlal Nehru",
+        "b": "Subhas Chandra Bose",
+        "c": "Mahatma Gandhi",
+        "d": "Bhagat Singh"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the national emblem of India?",
+      "options": {
+        "a": "Tiger",
+        "b": "Lion Capital of Ashoka",
+        "c": "Peacock",
+        "d": "Banyan Tree"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which Indian state is known as the 'Land of Kings'?",
+      "options": {
+        "a": "Madhya Pradesh",
+        "b": "Uttar Pradesh",
+        "c": "Rajasthan",
+        "d": "Haryana"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which Indian sportsperson is known as the 'Master Blaster'?",
+      "options": {
+        "a": "Virat Kohli",
+        "b": "Sourav Ganguly",
+        "c": "Sachin Tendulkar",
+        "d": "Kapil Dev"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the national reptile of India?",
+      "options": {
+        "a": "Cobra",
+        "b": "Crocodile",
+        "c": "Lizard",
+        "d": "Turtle"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which Indian state is known for its classical dance form of Bharatanatyam?",
+      "options": {
+        "a": "Kerala",
+        "b": "Andhra Pradesh",
+        "c": "Tamil Nadu",
+        "d": "Karnataka"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Who is known as the 'Father of Indian Space Program'?",
+      "options": {
+        "a": "A.P.J. Abdul Kalam",
+        "b": "Satish Dhawan",
+        "c": "Vikram Sarabhai",
+        "d": "Homi J. Bhabha"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which Indian state is known for its Kumbh Mela festival?",
+      "options": {
+        "a": "Uttar Pradesh",
+        "b": "Maharashtra",
+        "c": "Gujarat",
+        "d": "Rajasthan"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which Indian scientist is known as the 'Father of Indian Nuclear Program'?",
+      "options": {
+        "a": "Homi J. Bhabha",
+        "b": "Vikram Sarabhai",
+        "c": "A.P.J. Abdul Kalam",
+        "d": "Satish Dhawan"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which Indian state is famous for its tea gardens in Darjeeling?",
+      "options": {
+        "a": "Assam",
+        "b": "Sikkim",
+        "c": "West Bengal",
+        "d": "Meghalaya"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which Indian state is known as the 'Land of the Rising Sun'?",
+      "options": {
+        "a": "Sikkim",
+        "b": "Arunachal Pradesh",
+        "c": "Nagaland",
+        "d": "Manipur"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which Indian leader is known for the 'Dandi March'?",
+      "options": {
+        "a": "Jawaharlal Nehru",
+        "b": "Subhas Chandra Bose",
+        "c": "Mahatma Gandhi",
+        "d": "Bhagat Singh"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the national aquatic animal of India?",
+      "options": {
+        "a": "Crocodile",
+        "b": "Ganges River Dolphin",
+        "c": "Turtle",
+        "d": "Shark"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which Indian state is known for its one-horned rhinoceros?",
+      "options": {
+        "a": "West Bengal",
+        "b": "Assam",
+        "c": "Uttar Pradesh",
+        "d": "Bihar"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which Indian state is famous for its backwaters?",
+      "options": {
+        "a": "Goa",
+        "b": "Tamil Nadu",
+        "c": "Kerala",
+        "d": "Karnataka"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which Indian leader is known as the 'Architect of the Indian Constitution'?",
+      "options": {
+        "a": "Jawaharlal Nehru",
+        "b": "B.R. Ambedkar",
+        "c": "Mahatma Gandhi",
+        "d": "Sardar Vallabhbhai Patel"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What is the national heritage animal of India?",
+      "options": {
+        "a": "Lion",
+        "b": "Elephant",
+        "c": "Tiger",
+        "d": "Rhinoceros"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which Indian city is known as the 'City of Pearls'?",
+      "options": {
+        "a": "Hyderabad",
+        "b": "Mumbai",
+        "c": "Kolkata",
+        "d": "Chennai"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which Indian state is famous for its Sunderbans mangrove forest?",
+      "options": {
+        "a": "Assam",
+        "b": "West Bengal",
+        "c": "Orissa",
+        "d": "Tamil Nadu"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which Indian leader is known for the 'Non-Cooperation Movement'?",
+      "options": {
+        "a": "Jawaharlal Nehru",
+        "b": "Subhas Chandra Bose",
+        "c": "Mahatma Gandhi",
+        "d": "Bhagat Singh"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the national heritage bird of India?",
+      "options": {
+        "a": "Sparrow",
+        "b": "Peacock",
+        "c": "Great Indian Bustard",
+        "d": "Kingfisher"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which Indian state is known for its classical dance form of Kathakali?",
+      "options": {
+        "a": "Kerala",
+        "b": "Andhra Pradesh",
+        "c": "Tamil Nadu",
+        "d": "Karnataka"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Who is known as the 'Mother of Indian Revolution'?",
+      "options": {
+        "a": "Sarojini Naidu",
+        "b": "Madam Bhikaji Cama",
+        "c": "Indira Gandhi",
+        "d": "Kasturba Gandhi"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which Indian state is known for its classical dance form of Kuchipudi?",
+      "options": {
+        "a": "Kerala",
+        "b": "Andhra Pradesh",
+        "c": "Tamil Nadu",
+        "d": "Karnataka"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which Indian state is known for its blue pottery?",
+      "options": {
+        "a": "Gujarat",
+        "b": "Uttar Pradesh",
+        "c": "Rajasthan",
+        "d": "West Bengal"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which Indian state is known as the 'Land of Spices'?",
+      "options": {
+        "a": "Kerala",
+        "b": "Tamil Nadu",
+        "c": "Karnataka",
+        "d": "Andhra Pradesh"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Who is known as the 'Father of Indian Renaissance'?",
+      "options": {
+        "a": "Mahatma Gandhi",
+        "b": "Raja Ram Mohan Roy",
+        "c": "Swami Vivekananda",
+        "d": "Rabindranath Tagore"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which Indian city is known as the 'City of Lakes'?",
+      "options": {
+        "a": "Jaipur",
+        "b": "Udaipur",
+        "c": "Bhopal",
+        "d": "Hyderabad"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which Indian leader is known for the 'Swadeshi Movement'?",
+      "options": {
+        "a": "Jawaharlal Nehru",
+        "b": "Subhas Chandra Bose",
+        "c": "Mahatma Gandhi",
+        "d": "Bal Gangadhar Tilak"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "Which Indian state is famous for its backwaters?",
+      "options": {
+        "a": "Goa",
+        "b": "Tamil Nadu",
+        "c": "Kerala",
+        "d": "Karnataka"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which Indian city is known as the 'City of Nawabs'?",
+      "options": {
+        "a": "Hyderabad",
+        "b": "Lucknow",
+        "c": "Kolkata",
+        "d": "Chennai"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Who is known as the 'Missile Man of India'?",
+      "options": {
+        "a": "Homi J. Bhabha",
+        "b": "Vikram Sarabhai",
+        "c": "A.P.J. Abdul Kalam",
+        "d": "Satish Dhawan"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which Indian leader is known as the 'Iron Man of India'?",
+      "options": {
+        "a": "Jawaharlal Nehru",
+        "b": "Sardar Vallabhbhai Patel",
+        "c": "Subhas Chandra Bose",
+        "d": "Lal Bahadur Shastri"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which Indian state is known as the 'Land of Dawn-Lit Mountains'?",
+      "options": {
+        "a": "Sikkim",
+        "b": "Arunachal Pradesh",
+        "c": "Nagaland",
+        "d": "Manipur"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which Indian state is known for its classical dance form of Odissi?",
+      "options": {
+        "a": "Kerala",
+        "b": "Andhra Pradesh",
+        "c": "Odisha",
+        "d": "Tamil Nadu"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which Indian state is known as the 'Land of Festivals'?",
+      "options": {
+        "a": "Goa",
+        "b": "Tamil Nadu",
+        "c": "Karnataka",
+        "d": "Manipur"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "Who is known as the 'Father of Indian Cinema'?",
+      "options": {
+        "a": "Raj Kapoor",
+        "b": "Dadasaheb Phalke",
+        "c": "Satyajit Ray",
+        "d": "Ritwik Ghatak"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which Indian city is known as the 'City of Oranges'?",
+      "options": {
+        "a": "Nagpur",
+        "b": "Pune",
+        "c": "Mumbai",
+        "d": "Bhopal"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which Indian leader is known for the 'Green Revolution'?",
+      "options": {
+        "a": "Jawaharlal Nehru",
+        "b": "Subhas Chandra Bose",
+        "c": "M.S. Swaminathan",
+        "d": "Bhagat Singh"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the national animal of India?",
+      "options": {
+        "a": "Lion",
+        "b": "Elephant",
+        "c": "Tiger",
+        "d": "Peacock"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which Indian state is known for its tea gardens in Assam?",
+      "options": {
+        "a": "West Bengal",
+        "b": "Sikkim",
+        "c": "Assam",
+        "d": "Meghalaya"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+      "options": {
+        "a": "Punjab",
+        "b": "Haryana",
+        "c": "Uttar Pradesh",
+        "d": "Gujarat"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which Indian city is known as the 'Garden City'?",
+      "options": {
+        "a": "Hyderabad",
+        "b": "Bengaluru",
+        "c": "Chennai",
+        "d": "Mumbai"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which Indian state is known for its classical dance form of Mohiniyattam?",
+      "options": {
+        "a": "Kerala",
+        "b": "Andhra Pradesh",
+        "c": "Tamil Nadu",
+        "d": "Karnataka"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Who is known as the 'Mother of Indian Revolution'?",
+      "options": {
+        "a": "Sarojini Naidu",
+        "b": "Madam Bhikaji Cama",
+        "c": "Indira Gandhi",
+        "d": "Kasturba Gandhi"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which Indian city is known as the 'City of Palaces'?",
+      "options": {
+        "a": "Jaipur",
+        "b": "Udaipur",
+        "c": "Kolkata",
+        "d": "Mysore"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "Which Indian leader is known for the 'Civil Disobedience Movement'?",
+      "options": {
+        "a": "Jawaharlal Nehru",
+        "b": "Subhas Chandra Bose",
+        "c": "Mahatma Gandhi",
+        "d": "Bhagat Singh"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the national fruit of India?",
+      "options": {
+        "a": "Apple",
+        "b": "Mango",
+        "c": "Banana",
+        "d": "Pineapple"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which Indian state is known as the 'Land of Dawn-Lit Mountains'?",
+      "options": {
+        "a": "Sikkim",
+        "b": "Arunachal Pradesh",
+        "c": "Nagaland",
+        "d": "Manipur"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which Indian city is known as the 'City of Joy'?",
+      "options": {
+        "a": "Mumbai",
+        "b": "Delhi",
+        "c": "Kolkata",
+        "d": "Chennai"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which Indian leader is known for the 'Quit India Movement'?",
+      "options": {
+        "a": "Jawaharlal Nehru",
+        "b": "Subhas Chandra Bose",
+        "c": "Mahatma Gandhi",
+        "d": "Bhagat Singh"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which Indian state is known for its classical dance form of Kathakali?",
+      "options": {
+        "a": "Kerala",
+        "b": "Andhra Pradesh",
+        "c": "Tamil Nadu",
+        "d": "Karnataka"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which Indian leader is known as the 'Father of the Nation'?",
+      "options": {
+        "a": "Jawaharlal Nehru",
+        "b": "Subhas Chandra Bose",
+        "c": "Mahatma Gandhi",
+        "d": "Bhagat Singh"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What is the national bird of India?",
+      "options": {
+        "a": "Sparrow",
+        "b": "Peacock",
+        "c": "Great Indian Bustard",
+        "d": "Kingfisher"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which Indian state is known as the 'Land of Spices'?",
+      "options": {
+        "a": "Kerala",
+        "b": "Tamil Nadu",
+        "c": "Karnataka",
+        "d": "Andhra Pradesh"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which Indian city is known as the 'City of Nawabs'?",
+      "options": {
+        "a": "Hyderabad",
+        "b": "Lucknow",
+        "c": "Kolkata",
+        "d": "Chennai"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which Indian leader is known as the 'Missile Man of India'?",
+      "options": {
+        "a": "Homi J. Bhabha",
+        "b": "Vikram Sarabhai",
+        "c": "A.P.J. Abdul Kalam",
+        "d": "Satish Dhawan"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which Indian state is known for its classical dance form of Bharatanatyam?",
+      "options": {
+        "a": "Kerala",
+        "b": "Andhra Pradesh",
+        "c": "Tamil Nadu",
+        "d": "Karnataka"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which Indian state is known as the 'Land of the Rising Sun'?",
+      "options": {
+        "a": "Sikkim",
+        "b": "Arunachal Pradesh",
+        "c": "Nagaland",
+        "d": "Manipur"
+      },
+      "answer": "b"
+    }
+  ]
+  
