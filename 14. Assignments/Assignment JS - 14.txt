@@ -1,0 +1,36 @@
+Assignment 14: Sort Products By Price
+
+const initialData = [
+ {
+   id: 1,
+   item: "shirt",
+   price: 300
+ },
+ {
+   id: 2,
+   item: "tshirt",
+   price: 499
+ },
+ {
+   id: 3,
+   item: "jeans",
+   price: 500
+ },
+ {
+   id: 4,
+   item: "trousers",
+   price: 250
+ },
+ {
+   id: 5,
+   item: "chinos",
+   price: 300
+ }
+];
+
+
+Output:
+
+Refer - image1.png
+
+Solution Link: https://ide.geeksforgeeks.org/ide/online-html-editor?id=8299e996-70d8-42ca-9a9e-f43a38b2f31b

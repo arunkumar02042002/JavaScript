@@ -1,0 +1,10 @@
+Assignment 8: Given an input string S that contains multiple words, you need to remove all the spaces present in the input string. There can be multiple spaces present after any word’
+
+ 
+E.g: 
+
+Input: "     I am      a     Web    Developer   "
+
+Output: IamaWebDeveloper
+
+Solution Link: https://ide.geeksforgeeks.org/9a3d2989-824b-4b4c-9f06-a3edb12e39f8

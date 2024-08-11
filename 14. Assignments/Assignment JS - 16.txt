@@ -1,0 +1,9 @@
+Assignment 16: Increase/Decrease Price of a Product
+
+
+
+Output:
+
+Refer - image4.png
+
+Solution Link: https://ide.geeksforgeeks.org/ide/online-html-editor?id=21f5d98f-0230-446c-9130-698878f3ea98

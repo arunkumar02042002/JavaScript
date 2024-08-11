@@ -1,0 +1,37 @@
+Assignment 15: Update Price of a Product by using it’s Id
+
+
+const initialData = [
+ {
+   id: 1,
+   item: "shirt",
+   price: 300
+ },
+ {
+   id: 2,
+   item: "tshirt",
+   price: 499
+ },
+ {
+   id: 3,
+   item: "jeans",
+   price: 500
+ },
+ {
+   id: 4,
+   item: "trousers",
+   price: 250
+ },
+ {
+   id: 5,
+   item: "chinos",
+   price: 300
+ }
+];
+
+
+Output:
+
+Refer - image3.png
+
+Solution Link: https://ide.geeksforgeeks.org/ide/online-html-editor?id=9fe911b6-85c2-48ff-95e3-71bd56e74d59

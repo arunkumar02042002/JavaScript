@@ -1,0 +1,9 @@
+Assignment 7: Write a javaScript function to protect email addresses. The part before ‘@’ should be clipped into half followed by 3 dots (...)
+
+E.g: 
+
+Input: psakari123@gmail.com
+Output: psaka...@gmail.com
+
+
+Solution Link: https://ide.geeksforgeeks.org/3926f4bf-225d-47d3-8394-9789fc1ca811

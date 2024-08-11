@@ -1,0 +1,7 @@
+Assignment 12: Write a Prototype of subString Methods to find all the substring of a given string
+ 
+
+Input: geeksforgeeks
+Output: ['g', 'ge', 'gee', 'geek', 'geeks', 'e', 'ee', 'eek', 'eeks', 'e', 'ek', 'eks', 'k', 'ks', 's']
+
+Solution Link: https://ide.geeksforgeeks.org/online-nodejs-compiler/d3f2b9fb-f6c8-40ec-9835-bfdd0efde40a

@@ -1,0 +1,26 @@
+Assignment 1: Here is a list of items. Add a remove button for every item. With every click of the remove button, remove one item from the list.
+
+let products = [
+ {
+   id: "1",
+   item: "Shirt"
+ },
+ {
+   id: "2",
+   item: "Jeans"
+ },
+ {
+   id: "3",
+   item: "T-shirt"
+ },
+ {
+   id: "4",
+   item: "Denim Jacket"
+ },
+ {
+   id: "5",
+   item: "Casual Shoes"
+ }
+];
+
+Solution Link: https://ide.geeksforgeeks.org/ide/online-html-editor?id=1211b33a-1f06-408a-bdce-32e7273daaba

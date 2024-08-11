@@ -1,0 +1,5 @@
+Assignment 6: Given a table with 3 rows and 3 columns Write a JavaScript program to add a row and every click on button.
+
+Reference Image: https://www.awesomescreenshot.com/image/32386733?key=2f79cebf77823aa7e140e16e1f19fef9
+
+Solution Link: https://ide.geeksforgeeks.org/ide/online-html-editor?id=16dac9f8-9de2-42e7-b528-b2cc4edbc0a6
